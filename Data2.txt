@@ -1,0 +1,21 @@
+ID	SALID	Name	Salary	
+J38	S807	Angel Guajira	3009.0	
+J34	S117	Angelique Dubois	2013.0	
+J27	S967	Carlitos Colon	1006.0	
+J36	S191	Carlos Henriquez	1015.0	
+J31	S101	Carol Zippo	3009.0	
+J28	S797	Carolyn Hawkes	2007.0	
+J32	S015	Debbie Poppoli	2011.0	
+J33	S610	Elaine Perez	2012.0	
+J23	S297	Elizabeth Stoddard	3002.0	
+J26	S795	Jack Hanna	2500.0	
+J24	S379	Jack Venneno	5003.0	
+J21	S808	Jacqueline Smith	2000.0	
+J29	S012	Julia Hoffman	2008.0	
+J35	S810	Karen Horne	2014.0	
+J30	S331	Meaghan Todd	1015.0	
+J25	S497	Miha  Cao	2004.0	
+J20	S789	Pedro Gonzalez	1000.0	
+J22	S971	Quentin Collins	2100.0	
+J37	S120	Tito Puente	3009.0	
+J39	S080	Victor Delmonte	2018.0	

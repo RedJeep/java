@@ -1,0 +1,21 @@
+ID	Name	Birthday	ESType	EType	HiredDate	FiredDate	
+J38	Angel Guajira	1978-03-25 00:00:00.0	Terminated	Part time	1990-03-10 00:00:00.0	1991-04-03 00:00:00.0	
+J34	Angelique Dubois	1977-01-06 00:00:00.0	Terminated	Part time	1990-03-06 00:00:00.0	2015-12-03 00:00:00.0	
+J27	Carlitos Colon	1960-06-04 00:00:00.0	Retired	Full Time	1990-02-27 00:00:00.0	2020-02-28 00:00:00.0	
+J36	Carlos Henriquez	1970-03-09 00:00:00.0	Terminated	Full Time	1990-03-08 00:00:00.0	2013-06-03 00:00:00.0	
+J31	Carol Zippo	1959-07-05 00:00:00.0	Retired	Full Time	1990-03-03 00:00:00.0	2018-09-04 00:00:00.0	
+J28	Carolyn Hawkes	1970-06-07 00:00:00.0	Terminated	Part time	1990-02-28 00:00:00.0	2010-06-01 00:00:00.0	
+J32	Debbie Poppoli	1963-06-02 00:00:00.0	Terminated	Full Time	1990-03-04 00:00:00.0	2017-10-03 00:00:00.0	
+J33	Elaine Perez	1960-11-22 00:00:00.0	Terminated	Full Time	1990-03-05 00:00:00.0	2016-11-08 00:00:00.0	
+J23	Elizabeth Stoddard	1949-01-30 00:00:00.0	Retired	Part time	1987-01-02 00:00:00.0	2000-02-23 00:00:00.0	
+J24	Jack Venneno	1956-07-08 00:00:00.0	Retired	Full Time	1980-11-10 00:00:00.0	2020-05-24 00:00:00.0	
+J21	Jacqueline Smith	1982-11-26 00:00:00.0	Terminated	Full Time	2015-03-21 00:00:00.0	2016-02-20 00:00:00.0	
+J29	Julia Hoffman	1960-07-08 00:00:00.0	Retired	Full Time	1990-03-01 00:00:00.0	2020-07-06 00:00:00.0	
+J35	Karen Horne	1977-02-03 00:00:00.0	Terminated	Full Time	1990-03-07 00:00:00.0	2014-10-03 00:00:00.0	
+J30	Meaghan Todd	1961-10-11 00:00:00.0	Terminated	Part time	1990-03-02 00:00:00.0	2019-08-03 00:00:00.0	
+J25	Miha  Cao	1955-03-01 00:00:00.0	Retired	Full Time	1987-12-03 00:00:00.0	2015-02-25 00:00:00.0	
+J20	Pedro Gonzalez	1978-01-25 00:00:00.0	Terminated	Part time	1990-01-20 00:00:00.0	2020-07-01 00:00:00.0	
+J26	Principe Sabud	1968-07-07 00:00:00.0	Terminated	Full Time	1990-02-26 00:00:00.0	1990-05-27 00:00:00.0	
+J22	Quentin Collins	1967-04-13 00:00:00.0	Retired	Full Time	1987-02-22 00:00:00.0	2010-08-10 00:00:00.0	
+J37	Tito Puente	1975-01-06 00:00:00.0	Retired	Full Time	1990-03-09 00:00:00.0	2012-02-03 00:00:00.0	
+J39	Victor Delmonte	1969-02-27 00:00:00.0	Terminated	Full Time	1990-03-11 00:00:00.0	1992-06-07 00:00:00.0	
